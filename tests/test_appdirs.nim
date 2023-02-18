@@ -1,7 +1,6 @@
 import unittest
 
-import os
-import strtabs
+import appdirs
 
 suite "Test `user_data`":
   setup:
