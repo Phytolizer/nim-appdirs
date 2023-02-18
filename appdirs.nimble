@@ -1,5 +1,5 @@
 version = "0.2.0"
-author = "Johz"
+author = "Kyle Coffey"
 description = "Appdirs finds the dirs for you to app in."
 license = "MIT"
 
